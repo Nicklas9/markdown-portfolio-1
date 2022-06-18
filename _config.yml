@@ -1,2 +1,4 @@
+url: 'https://chinonsoike.github.io/'
+baseurl: 'markdown-portfolio'
 title: Welcome to my portfolio!
 theme: jekyll-theme-cayman
