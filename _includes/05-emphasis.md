@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My favorite programming language might turn out to be **C#**. I'm getting better at it _every day_.
