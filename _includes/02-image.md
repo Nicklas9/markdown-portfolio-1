@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a laptop with some code displayed](https://images.unsplash.com/photo-1517694712202-14dd9538aa97)
